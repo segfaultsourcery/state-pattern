@@ -1,0 +1,2 @@
+# state-pattern
+State pattern.
