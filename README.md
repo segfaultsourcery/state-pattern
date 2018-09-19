@@ -8,6 +8,7 @@ I can't get into too much detail, but more often than not, the same bit of data 
 
 I did not like this one bit.
 
+Further reading: http://segfaultsourcery.com/post/state-pattern
 
 ## Installation
 
